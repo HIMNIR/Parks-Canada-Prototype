@@ -23,27 +23,16 @@ Intelligent Text Processing: Tailored for specific national parks (Banff, MRG, J
 
 Excel Export for Streamlined Data Storage: The ToExcel class provides a quick and efficient way to export processed data to Excel spreadsheets, ensuring structured and accessible data storage.
 
-Benefits
+##Benefits
 Time Savings: By automating PDF conversion and text processing, the application drastically reduces the time spent on manual data entry tasks.
 
 Error Reduction: Automation minimizes the risk of human errors associated with manual data extraction, enhancing the accuracy and reliability of information.
 
 Enhanced Workflow Efficiency: The seamless integration of PDF conversion, text processing, and Excel export creates a streamlined workflow, empowering users to focus on higher-value tasks.
 
-Use Cases
+##Use Cases
 Government Agencies: Ideal for government agencies managing business licenses in national parks, the application accelerates the processing of license information.
 
 Commercial Enterprises: Businesses operating in national parks can efficiently organize and analyze license data, aiding in compliance and decision-making processes.
 
 Research and Analysis: Researchers and analysts benefit from quick access to organized data, facilitating comprehensive studies and reports.
-
-Usage
-PDF Conversion:
-
-Easily convert PDF documents to text with a single command.
-National Park Processing:
-
-Process data specific to Banff, MRG, or Jasper National Park requirements.
-Excel Export:
-
-Export processed data to Excel for structured storage and analysis.
